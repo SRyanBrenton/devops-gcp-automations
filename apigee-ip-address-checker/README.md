@@ -94,4 +94,4 @@ textPayload:"ALERT"
 **Threshold:** > 0 occurrences per 5 minutes.
 
 ---
-*Maintained by Shaun Brenton*
+*Created and maintained by Shaun Brenton*
