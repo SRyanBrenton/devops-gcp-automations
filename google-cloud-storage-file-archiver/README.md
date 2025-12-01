@@ -98,4 +98,4 @@ gcloud scheduler jobs create http archive-logs-daily \
 3.  Submit a Pull Request.
 
 ---
-*Maintained by Shaun Brenton*
+*Created and maintained by Shaun Brenton*
